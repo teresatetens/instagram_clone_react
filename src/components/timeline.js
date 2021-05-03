@@ -1,4 +1,5 @@
-/* eslint-disable prettier/prettier */
 export default function Timeline() {
-  return <p>Timeline</p>;
+  return <div className="container col-span-2">
+    <p>I am the timeline</p>
+  </div>
 }
